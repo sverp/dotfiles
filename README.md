@@ -1,4 +1,4 @@
-pywal => colour scheme generation \n
-kitty => terminal
-i3 => window manager
-rofi => dmenu
+pywal => colour scheme generation <br />
+kitty => terminal <br />
+i3 => window manager <br />
+rofi => dmenu <br />
