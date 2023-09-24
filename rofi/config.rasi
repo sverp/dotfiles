@@ -1,0 +1,10 @@
+configuration {
+  modes: [ combi ];
+  combi-modes: [ window, drun, run ];
+}
+
+entry {
+    placeholder: "Type here";
+}
+
+@import "~/.cache/wal/colors-rofi-dark"
